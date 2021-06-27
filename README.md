@@ -1,3 +1,3 @@
 # navbar
-it is only navbar 
+it is navbar 
 only css purpose in react 
